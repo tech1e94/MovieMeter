@@ -4,7 +4,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Film } from "lucide-react"
 
 export const metadata = {
-  title: "Movie Genres | Movie Review Website",
+  title: "Movie Genres | MovieMeter",
   description: "Browse movies by genre",
 }
 

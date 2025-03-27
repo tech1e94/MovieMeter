@@ -4,7 +4,7 @@ import Loading from "@/app/loading"
 import MovieCard from "@/components/movie-card"
 
 export const metadata = {
-  title: "Upcoming Movies | Movie Review Website",
+  title: "Upcoming Movies | MovieMeter",
   description: "Discover movies coming soon to theaters",
 }
 

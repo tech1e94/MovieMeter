@@ -4,7 +4,7 @@ import Loading from "@/app/loading"
 import MovieCard from "@/components/movie-card"
 
 export const metadata = {
-  title: "Top Rated Movies | Movie Review Website",
+  title: "Top Rated Movies | MovieMeter",
   description: "Browse the highest rated movies of all time",
 }
 
